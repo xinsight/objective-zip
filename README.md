@@ -1,4 +1,7 @@
-This is a copy of [objective-zip library](http://code.google.com/p/objective-zip/) developed by [Flying Dolphin Studio](http://www.flyingdolphinstudio.com). 
+This is a trivial fork of [objective-zip by mz2](https://github.com/mz2/objective-zip) to add CocoaPod podspec.
+===
+This is a copy of [objective-zip library](https://github.com/flyingdolphinstudio/Objective-Zip) developed by 
+[Flying Dolphin Studio](http://www.flyingdolphinstudio.com).
 
 The following changes were made:
 
